@@ -1,3 +1,3 @@
-# 4pics1-game-in-Reactjs
+# Guess the Word Game in React JS
 
-link: https://storyofcoder.github.io/
+link: https://determined-aryabhata-17cbd1.netlify.app/
